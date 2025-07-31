@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+ChatGPT is an advanced language model developed by OpenAI.
+Hello world!
+This is a small corpus for training a tiny language model.
